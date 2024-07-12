@@ -6,11 +6,11 @@ public class BaseClass {
 		System.out.println("hii sam");
 		if("HDFC".equals("HDFC"))
 		{
-			System.out.println("Pass");
+			System.out.println("Pass1");
 		}
 		else
 		{
-			System.out.println("Fail");
+			System.out.println("Fail1");
 		}
 	}
 		
