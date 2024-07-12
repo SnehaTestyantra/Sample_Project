@@ -8,9 +8,13 @@ public class BaseClass {
 		{
 			System.out.println("Pass1");
 		}
-		else
+		else if("ICICI".equals("ICICI"))
 		{
 			System.out.println("Fail1");
+		}
+		else
+		{
+			System.out.println("Invalid");
 		}
 	}
 		
